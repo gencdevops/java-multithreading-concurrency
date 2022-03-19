@@ -41,7 +41,6 @@ public class ThreadExample7 {
         }
 
 
-
         stoppableRunnable.requestStop();
     }
 }
