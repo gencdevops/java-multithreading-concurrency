@@ -39,6 +39,7 @@ public class ThreadExample7 {
         } catch (InterruptedException e) {
             e.printStackTrace();
         }
+
         stoppableRunnable.requestStop();
     }
 }
